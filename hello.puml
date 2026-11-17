@@ -1,0 +1,4 @@
+@startuml
+actor Student
+Student --> (Book a seat)
+@enduml
